@@ -9,20 +9,24 @@
 
 <h3>İlgi Alanlarım</h3>
 <ol>
-    <li>Sevdiğim Kitaplar</li>
+    <li>Sevdiğim Kitaplar
     <ul>
         <li>Dan Brown-Melekler ve Şeytanlar</li>
         <li>Stefan Zweig-Bilinmeyen bir kadının mektubu</li>
 
     </ul>
-    <li>Sevdiğim Diziler</li>
+    </li>
+    <li>Sevdiğim Diziler
     <ul>
         <li>Friends</li>
         <li>How I met your mother</li>
     </ul>
-    <li>Sevdiğim Filmler</li>
+</li>
+    <li>Sevdiğim Filmler
     <ul>
         <li>120</li>
         <li>7 öfkeli adam</li>
     </ul>
+    </li>
 </ol>
+
