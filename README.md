@@ -21,7 +21,7 @@
         <li>Friends</li>
         <li>How I met your mother</li>
     </ul>
-</li>
+    </li>
     <li>Sevdiğim Filmler
     <ul>
         <li>120</li>
