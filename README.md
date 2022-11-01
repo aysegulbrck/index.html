@@ -38,3 +38,5 @@
         </ul>
     </li>
 </ol>
+<img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1602003233i/18593462.jpg"
+alt="Yakıcı Sır kitap kapağı"
