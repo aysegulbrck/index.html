@@ -9,24 +9,24 @@
 
 <h3>İlgi Alanlarım</h3>
 <ol>
-    <li>Sevdiğim Kitaplar
-    <ul>
-        <li>Dan Brown-Melekler ve Şeytanlar</li>
-        <li>Stefan Zweig-Bilinmeyen bir kadının mektubu</li>
-
-    </ul>
+    <li>Filmler
+        <ul>
+            <li>120</li>
+            <li>7 öfkeli adam</li>
+        </ul>
     </li>
-    <li>Sevdiğim Diziler
-    <ul>
-        <li>Friends</li>
-        <li>How I met your mother</li>
-    </ul>
+    <li>Diziler
+        <ul>
+            <li>Friends</li>
+            <li>How I met your mother</li>
+            
+        </ul>
     </li>
-    <li>Sevdiğim Filmler
-    <ul>
-        <li>120</li>
-        <li>7 öfkeli adam</li>
-    </ul>
+    <li>Kitaplar
+        <ul>
+            <li>Stefan Zweig-Korku</li>
+            <li>Dan Brown-Melekler ve Şeytanlar</li>
+            
+        </ul>
     </li>
 </ol>
-
