@@ -19,14 +19,12 @@
         <ul>
             <li>Friends</li>
             <li>How I met your mother</li>
-            
         </ul>
     </li>
     <li>Kitaplar
         <ul>
             <li>Stefan Zweig-Korku</li>
-            <li>Dan Brown-Melekler ve Şeytanlar</li>
-            
+            <li>Dan Brown-Melekler ve Şeytanlar</li>    
         </ul>
     </li>
 </ol>
