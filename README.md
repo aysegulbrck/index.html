@@ -6,7 +6,7 @@
 <p>Hobilerim arasında kitap okumak var. Son zamanlarda okumaktan en çok keyif aldığım kitap Dan Brown'un Melekler ve Şeytanlar kitabı.</p>
 <h3>Sevdiğim ders</h3>
 <p>Fizik ve matematiği çok seviyorum. Ayrıca sayılarla uğraşmak bana çok keyif veriyor.</p>
-
+<div
 <h3>İlgi Alanlarım</h3>
 <ol>
     <li>Filmler
@@ -18,8 +18,12 @@
     <li>Diziler
         <ul>
             <li>Friends</li>
-            <li>How I met your mother</li>
             <li>
+                <strong>
+                   <em>How I met your mother</em>
+                </strong>
+                </li>
+                <li>
             <a href="https://www.imdb.com/title/tt1149362/?ref_=hm_tpks_tt_i_20_pd_tp1_pbr_ic" target="_blank">
                 The White Ribbon
             </a>
@@ -38,4 +42,5 @@
         </ul>
     </li>
 </ol>
+</div>
 <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1602003233i/18593462.jpg" alt="Yakıcı Sır kitap kapağı">
