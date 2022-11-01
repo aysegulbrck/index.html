@@ -19,12 +19,19 @@
         <ul>
             <li>Friends</li>
             <li>How I met your mother</li>
+            <a href="https://www.imdb.com/title/tt1149362/?ref_=hm_tpks_tt_i_20_pd_tp1_pbr_ic" target="_blank">
+                The White Ribbon
+            </a>
+             
         </ul>
     </li>
     <li>Kitaplar
         <ul>
             <li>Stefan Zweig-Korku</li>
             <li>Dan Brown-Melekler ve Şeytanlar</li>    
+            <a href="https://www.goodreads.com/book/show/18593462-yak-c-s-r?from_search=true&from_srp=true&qid=ZjtR2Qf1NO&rank=12" target="_blank">
+                Yakıcı Sır
+            </a>
         </ul>
     </li>
 </ol>
